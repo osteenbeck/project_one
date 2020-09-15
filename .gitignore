@@ -2,3 +2,5 @@
 no_upload/
 pdf/
 *.ods
+*.odt
+*.pages
