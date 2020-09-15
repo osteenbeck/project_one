@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+.~lock.*.*
 no_upload/
 pdf/
 *.ods
