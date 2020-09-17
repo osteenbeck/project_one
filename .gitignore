@@ -1,7 +1,8 @@
 .ipynb_checkpoints/
 .~lock.*.*
+.DS_Store
 no_upload/
-pdf/
 *.ods
 *.odt
 *.pages
+*.key
