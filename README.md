@@ -9,8 +9,7 @@ Here I'm working with the King County House Sales dataset.
 The focus is on EDA (exploratory data analysis).
 
 ## Structure of House-Prices-EDA.ipynb
-
-![Link][figures/House-Prices-EDA_Structure.png]
+<img src="https://github.com/osteenbeck/project_one/raw/master/figures/House-Prices-EDA_Structure.png" alt="Link" title="House Prices EDA Structure" style="zoom:150%;" />
 
 ## The data
 The dataset "King_County_House_prices_dataset.csv", in the folder /data.
